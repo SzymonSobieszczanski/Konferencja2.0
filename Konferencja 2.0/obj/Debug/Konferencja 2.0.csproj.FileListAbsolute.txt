@@ -1,0 +1,69 @@
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.exe.config
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.exe
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.pdb
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.csprojResolveAssemblyReference.cache
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\MainWindow.g.cs
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\App.g.cs
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_MarkupCompile.cache
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_MarkupCompile.lref
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\MainWindow.baml
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.g.resources
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja_2._0.Properties.Resources.resources
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.csproj.GenerateResource.Cache
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.exe
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.pdb
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_Content.g.cs
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\bin\Debug\Image\account.png
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\add_user.g.cs
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Settings.g.cs
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\users.g.cs
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\add_user.baml
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\Settings.baml
+c:\users\fifi\documents\visual studio 2015\Projects\Konferencja 2.0\Konferencja 2.0\obj\Debug\users.baml
+E:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.exe.config
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.exe
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.pdb
+E:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Image\account.png
+E:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.exe
+E:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.pdb
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.csprojResolveAssemblyReference.cache
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\add_user.g.cs
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\MainWindow.g.cs
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Settings.g.cs
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\users.g.cs
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\App.g.cs
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_Content.g.cs
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_MarkupCompile.cache
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_MarkupCompile.lref
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\add_user.baml
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\MainWindow.baml
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Settings.baml
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\users.baml
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.g.resources
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja_2._0.Properties.Resources.resources
+E:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.csproj.GenerateResource.Cache
+F:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.exe.config
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.exe
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.pdb
+F:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Image\account.png
+F:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.exe
+F:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.pdb
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.csprojResolveAssemblyReference.cache
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\add_user.g.cs
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\MainWindow.g.cs
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Settings.g.cs
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\users.g.cs
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\App.g.cs
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_Content.g.cs
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_MarkupCompile.cache
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0_MarkupCompile.lref
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\add_user.baml
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\MainWindow.baml
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Settings.baml
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\users.baml
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.g.resources
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja_2._0.Properties.Resources.resources
+F:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.csproj.GenerateResource.Cache
+G:\Konferencja 2.0\Konferencja 2.0\bin\Debug\Konferencja 2.0.exe.config
+G:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.exe
+G:\Konferencja 2.0\Konferencja 2.0\obj\Debug\Konferencja 2.0.pdb
